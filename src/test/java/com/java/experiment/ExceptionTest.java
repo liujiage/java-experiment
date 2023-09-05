@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 public class ExceptionTest {
 
     @Test
-    void Test_try_exception(){
+    void test_try_exception(){
         try{
             String s = null;
             s.toString();
