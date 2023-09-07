@@ -13,6 +13,6 @@ import java.io.Serializable;
 public class UserVO implements Serializable {
 
     private String userId;
-
+    private String userName;
 
 }
