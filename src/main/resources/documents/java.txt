@@ -1,0 +1,6 @@
+
+
+
+
+An overview of Strong, Weak, Soft and Phantom references in Java.
+https://prateeknima.medium.com/strong-weak-soft-and-phantom-references-in-java-b4f9068e883e

@@ -11,7 +11,6 @@ public class ExceptionTest {
     void test_try_exception(){
         try{
             String s = null;
-            s.toString();
         }
         catch(NullPointerException npe){
             log.error("NullPointerException error cause:{} error message:{} ",

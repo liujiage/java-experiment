@@ -15,4 +15,9 @@ public class UserVO implements Serializable {
     private String userId;
     private String userName;
 
+    @Override
+    public String toString(){
+        return "userId: "+this.userId+",userName: "+this.userName;
+    }
+
 }

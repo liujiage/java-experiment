@@ -15,7 +15,7 @@ public class JsonTest {
             String s = "null";
             UserVO user = JSONObject.parseObject(s, UserVO.class);
             log.info("user: {}", user);
-            Assertions.assertEquals(user,null);
+            Assertions.assertNull(user);
         }catch(Exception e){
             log.error("error", e);
         }
