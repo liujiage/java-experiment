@@ -1,0 +1,4 @@
+Spring Boot with Redis: Pipeline Operations
+https://stackabuse.com/spring-boot-with-redis-pipeline-operations/
+https://blog.csdn.net/G0_hw/article/details/69831213
+https://redis.com/glossary/redis-hashes/
