@@ -1,0 +1,4 @@
+
+git log --oneline
+git reset --hard 9275580
+git push --force origin develop-up
