@@ -28,4 +28,13 @@ public class StringTest {
         log.info(Arrays.toString(users));
     }
 
+
+    @Test
+    void test_string_split(){
+        String s = "RECHARGE_DETAIL_2020071631378034_1697613181109";
+        String orderNo = s.substring(s.lastIndexOf("_") + 1);
+        log.info(orderNo);
+
+    }
+
 }
